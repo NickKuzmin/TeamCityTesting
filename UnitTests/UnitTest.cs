@@ -15,7 +15,7 @@ namespace UnitTests
         [TestMethod]
         public void Second()
         {
-            Assert.AreEqual(7, 7);
+            Assert.AreEqual(8, 8);
         }
 
         [TestMethod]
