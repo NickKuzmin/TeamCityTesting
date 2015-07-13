@@ -9,7 +9,7 @@ namespace TeamCityTesting
     class Program
     {
         static void Main(string[] args)
-        {
+        {asdasd
         }
     }
 }
