@@ -11,5 +11,11 @@ namespace UnitTests
         {
             Assert.AreEqual(5, 5);
         }
+
+        [TestMethod]
+        public void Second()
+        {
+            Assert.AreEqual(7, 7);
+        }
     }
 }
