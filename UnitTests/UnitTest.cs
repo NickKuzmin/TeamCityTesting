@@ -27,7 +27,7 @@ namespace UnitTests
         [TestMethod]
         public void Fourth()
         {
-            Assert.AreEqual(10, 10);
+            Assert.AreEqual(10, 11);
         }
     }
 }
