@@ -21,7 +21,7 @@ namespace UnitTests
         [TestMethod]
         public void Third()
         {
-            Assert.AreEqual(9, 9);
+            Assert.AreEqual(10, 10);
         }
 
         [TestMethod]
