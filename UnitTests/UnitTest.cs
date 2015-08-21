@@ -9,7 +9,7 @@ namespace UnitTests
         [TestMethod]
         public void FirstTest()
         {
-            Assert.AreEqual(5, 5); 
+            Assert.AreEqual(6, 6); 
         }
 
         [TestMethod]
